@@ -1,0 +1,9 @@
+c:\users\kooka\documents\visual studio 2015\Projects\SerialPortSample\SerialPortSample\bin\Debug\SerialPortSample.exe.config
+c:\users\kooka\documents\visual studio 2015\Projects\SerialPortSample\SerialPortSample\bin\Debug\SerialPortSample.exe
+c:\users\kooka\documents\visual studio 2015\Projects\SerialPortSample\SerialPortSample\bin\Debug\SerialPortSample.pdb
+c:\users\kooka\documents\visual studio 2015\Projects\SerialPortSample\SerialPortSample\obj\Debug\SerialPortSample.csprojResolveAssemblyReference.cache
+c:\users\kooka\documents\visual studio 2015\Projects\SerialPortSample\SerialPortSample\obj\Debug\SerialPortSample.Form1.resources
+c:\users\kooka\documents\visual studio 2015\Projects\SerialPortSample\SerialPortSample\obj\Debug\SerialPortSample.Properties.Resources.resources
+c:\users\kooka\documents\visual studio 2015\Projects\SerialPortSample\SerialPortSample\obj\Debug\SerialPortSample.csproj.GenerateResource.Cache
+c:\users\kooka\documents\visual studio 2015\Projects\SerialPortSample\SerialPortSample\obj\Debug\SerialPortSample.exe
+c:\users\kooka\documents\visual studio 2015\Projects\SerialPortSample\SerialPortSample\obj\Debug\SerialPortSample.pdb
